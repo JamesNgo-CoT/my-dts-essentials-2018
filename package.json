@@ -11,6 +11,15 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesNgo-CoT/my-dts-essentials-2018.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/JamesNgo-CoT/my-dts-essentials-2018/issues"
+  },
+  "homepage": "https://github.com/JamesNgo-CoT/my-dts-essentials-2018#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
